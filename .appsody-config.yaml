@@ -1,1 +1,2 @@
-stack: appsody/java-spring-boot2:0.3
+project-name: java-spring-boot2
+stack: docker.io/appsody/java-spring-boot2:0.3
